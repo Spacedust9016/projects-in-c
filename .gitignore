@@ -1,0 +1,22 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
