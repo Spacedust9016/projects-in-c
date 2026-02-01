@@ -92,7 +92,7 @@ projects-in-c/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/parthchaudhari9016/projects-in-c.git
+git clone https://github.com/spacedust9016/projects-in-c.git
 cd projects-in-c
 ```
 
